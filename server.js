@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 // configures handlebars as our view engine
 var exphbs = require("express-handlebars");
 
-app.engine("handlebars", exphbs({ defaultlayout: "main" }));
+app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
 // configures mysql
