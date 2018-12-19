@@ -43,7 +43,7 @@ Create an input that allows visitors to add a server to the database. (Because w
 
 ## Objectives
 
-This activity is meant to help you understand how to do conditional rendering in handlebars using the handlebars {{if}} logic, as well as using the handlebars {{else}} iterator. 
+This activity is meant to help you understand how to do conditional rendering in handlebars using the handlebars {{if}} logic, as well as using the handlebars {{each}} iterator. 
 
 It is also meant to acclimate you to a folder structure that is more similar to the MVC model (providing a public folder and a line of server logic on line 7). 
 
