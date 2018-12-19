@@ -1,5 +1,6 @@
 # World of Women Servers
 
+![Xena wins](https://media.giphy.com/media/MC2CX6rHTU2Zy/giphy.gif)
 ## Introduction
 
 > “God created dinosaurs. God destroyed dinosaurs. God created Man. Man destroyed God. Man created dinosaurs. 
@@ -8,7 +9,7 @@
 
 Welcome to World of Women, a popular MMORPG ... involving women being badasses.
 
-You are a front end developer tasked with creating a server status page so players can check on the status of the server they play on. This is inspired by another popular game called [WoW](https://worldofwarcraft.com/en-us/game/status)... 
+You are a web developer tasked with creating a server status page so players can check on the status of the server they play on. This is inspired by another popular game called [WoW](https://worldofwarcraft.com/en-us/game/status)... 
 
 
 ## Instructions
@@ -35,7 +36,7 @@ If a server has a population of 100,000 or less, render a string of "Low".
 If a server has a population between 100,000 - 1,000,000 render a string of "Normal". 
 If a server has a population above 1,000,000 render a string of "High". 
 
-*Hint: In your server.js file, in the get route for "/" you will have to to loop through your databases results, do some logic that assesses the number returned by the population column in your database, and saves the result to a key within an object that holds the other column values from the database...
+*Hint: In your server.js file, in the get route for "/" you will have to to loop through your databases results, do some logic that assesses the number returned by the population column in your database, and saves the result to a key within an object that holds the other column values from the database...*
 
 ### Bonus 2
 Create an input that allows visitors to add a server to the database. (Because we're cool like that, any plebeian can make a server in this game)
